@@ -6,6 +6,7 @@ While I don't have formal professional experience yet,
 I'm ready for new challenges and eager to gain practical knowledge by working on exciting projects.
 
 About Me
+
 🎓 I completed a year-long programming course, where I gained solid foundations in web technologies and beyond.
 💻 My main specialization is front-end, particularly technologies like HTML, CSS, JavaScript, and React.
 🚀 I aspire to develop expertise in designing responsive interfaces and optimizing performance.
