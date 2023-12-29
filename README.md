@@ -1,6 +1,7 @@
 Welcome to My GitHub Profile!
 
-Hello! I'm Ilona, a graduate of a year-long programming course. 
+Hello! 
+I'm Ilona, a graduate of a year-long programming course. 
 I have a passion for front-end development and a strong desire to grow in this field.
 While I don't have formal professional experience yet,
 I'm ready for new challenges and eager to gain practical knowledge by working on exciting projects.
