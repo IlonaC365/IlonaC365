@@ -1,19 +1,30 @@
-# Witaj na moim profilu GitHub!
+Welcome to My GitHub Profile!
 
-Cześć! Jestem Ilona, absolwentka rocznego kursu programowania. Mam pasję do front-endu i chęć rozwijania się w tej dziedzinie. Chociaż nie posiadam formalnego doświadczenia zawodowego, jestem gotowa na nowe wyzwania i chciałabym zdobyć praktyczną wiedzę, pracując nad ciekawymi projektami.
+Hello! I'm Ilona, a graduate of a year-long programming course. 
+I have a passion for front-end development and a strong desire to grow in this field.
+While I don't have formal professional experience yet,
+I'm ready for new challenges and eager to gain practical knowledge by working on exciting projects.
 
-## O mnie
+About Me
+🎓 I completed a year-long programming course, where I gained solid foundations in web technologies and beyond.
+💻 My main specialization is front-end, particularly technologies like HTML, CSS, JavaScript, and React.
+🚀 I aspire to develop expertise in designing responsive interfaces and optimizing performance.
 
-- 🎓 Skończyłam roczny kurs programowania, gdzie zdobyłam solidne podstawy w technologiach webowych i nie tylko.
-- 💻 Moja główna specjalizacja to front-end, a w szczególności technologie takie jak HTML, CSS, JavaScript, React.
-- 🚀 Chcę się rozwijać w obszarze projektowania responsywnych interfejsów i optymalizacji wydajności.
+Projects
 
-## Projekty
+During my learning journey, I've created several projects that serve as examples of my work and skills, which I'm eager to further develop.
 
-W trakcie mojej nauki stworzyłam kilka projektów,są to przykłady mojej pracy i umiejętności, które chętnie rozwijam.
+Languages and Tools:
 
-## Poszukiwanie Pracy
+CSS [![CSS Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+HTML JavaScript Java 
 
-Aktualnie aktywnie szukam pracy w obszarze front-endu, aby zdobyć praktyczne doświadczenie zawodowe. Chciałabym dołączyć do zespołu, gdzie będę mogła rozwijać swoje umiejętności, pracując nad rzeczywistymi projektami.
 
-Dziękuję za odwiedzenie mojego profilu!
+Thank you for visiting my profile!
+
+
+
+
+
+
+
