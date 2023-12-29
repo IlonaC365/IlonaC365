@@ -19,7 +19,7 @@ Projects:
 
 During my learning journey, I've created several projects that serve as examples of my work and skills, which I'm eager to further develop.
 
-Languages and Tools:
+Languages:
 
 CSS [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS Logo" width="11">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 HTML [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML Logo" width="11">](https://developer.mozilla.org/en-US/docs/Web/HTML)
